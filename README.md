@@ -1,2 +1,4 @@
-# jumbo
-A Jquery framwork AR plugin 
+# jumbo.js
+A Jquery framwork for AR & VR. 
+
+Coming Soon!
